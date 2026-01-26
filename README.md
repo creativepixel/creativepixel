@@ -2,6 +2,9 @@
 I'm a techology leader helping organisations with their technology strategy, Agile development & digital transformations. When I'm not doing that, playing the piano or cooking, I'm usually fiddling around with code pretending to be a developer. 
 Behold the mess before you, for it is mine.
 
+🔭 I’m currently working on an app to help parents navigate mobile phone usage with young children. Its called mobilefamily & you can find it here.
+💬 Ask me about anything to do with Agile & Digital transformation, AI & Cloud
+
 <!--
 **creativepixel/creativepixel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
