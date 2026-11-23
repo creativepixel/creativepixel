@@ -8,6 +8,7 @@ Behold the mess before you, for it is mine.
 <!--
 **creativepixel/creativepixel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <p align="center"> <i>"Waste is just a resource we haven't engineered yet."</i> ♻️ </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=creativepixelE&color=2ea043&style=flat-square&label=Profile+views" /> </p>
+<p> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white" /> <img src="https://img.shields.io/badge/HubSpot-FF7A59?style=flat-square&logo=hubspot&logoColor=white" /> </p>
 Here are some ideas to get you started:
 
 🔭 I’m currently working on an app to help parents navigate mobile phone usage with young children. Its called mobilefamily & you can find it here.
