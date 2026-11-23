@@ -7,7 +7,7 @@ Behold the mess before you, for it is mine.
 <p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=creativepixel&show_icons=true&theme=github_dark&hide_border=true" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=creativepixel&layout=compact&theme=github_dark&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=creativepixel&theme=github-dark-blue&hide_border=true" /> </p>
 <!--
 **creativepixel/creativepixel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<p align="center"> <i>"Waste is just a resource we haven't engineered yet."</i> ♻️ </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=creativepixelE&color=2ea043&style=flat-square&label=Profile+views" /> </p>
 Here are some ideas to get you started:
 
 🔭 I’m currently working on an app to help parents navigate mobile phone usage with young children. Its called mobilefamily & you can find it here.
